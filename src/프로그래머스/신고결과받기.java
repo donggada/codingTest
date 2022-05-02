@@ -4,7 +4,7 @@ import java.util.*;
 
 public class 신고결과받기 {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        Solution1 solution = new Solution1();
 
         String[] id_list = {"muzi", "frodo", "apeach", "neo"};
 //        String[] id_list = {"con", "ryan"};
@@ -17,7 +17,7 @@ public class 신고결과받기 {
     }
 }
 
-class Solution {
+class Solution1 {
     public int[] solution(String[] id_list, String[] report, int k) {
         int[] answer = new int[id_list.length];
         HashMap<String, HashSet<String>> idReportMap = new HashMap<String, HashSet<String>>();

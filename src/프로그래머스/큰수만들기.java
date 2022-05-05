@@ -5,6 +5,7 @@ public class 큰수만들기 {
         Solution2 solution2 = new Solution2();
         String number = "1924";
         int k = 2;
+//        int k = 2;
         System.out.println(solution2.solution(number, k));
     }
 }

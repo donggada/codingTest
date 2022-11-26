@@ -81,7 +81,7 @@ public class Solution {
             list.add(reporterID);
 
         }
-        
+
         for (String id : id_list) {
             HashSet<String> list = data.get(id);
 

@@ -1,6 +1,6 @@
-package decemer_1_week;
+package december_1_week;
 
-import decemer_1_week.basic.Solution;
+import december_1_week.basic.Solution;
 
 import java.util.Arrays;
 

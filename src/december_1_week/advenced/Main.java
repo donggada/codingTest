@@ -1,4 +1,4 @@
-package decemer_1_week.advenced;
+package december_1_week.advenced;
 
 import java.io.BufferedReader;
 import java.io.IOException;

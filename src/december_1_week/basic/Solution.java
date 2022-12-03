@@ -1,9 +1,7 @@
-package decemer_1_week.basic;
+package december_1_week.basic;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
 
 //public class Solution {
 //    public int[] solution(String[] id_list, String[] report, int k) {

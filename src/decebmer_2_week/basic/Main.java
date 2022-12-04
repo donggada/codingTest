@@ -1,4 +1,4 @@
-package decebmer_2_week.advenced;
+package decebmer_2_week.basic;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -45,7 +45,7 @@ public class Main {
         System.out.println(result);
     }
 
-    static void BFS (int x, int y) {
+    private static void BFS(int x, int y) {
         visit = new boolean[col][row];
         LinkedList<Integer> qx = new LinkedList<>();
         LinkedList<Integer> qy = new LinkedList<>();

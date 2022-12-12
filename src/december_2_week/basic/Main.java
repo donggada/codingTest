@@ -1,4 +1,4 @@
-package decebmer_2_week.basic;
+package december_2_week.basic;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -21,7 +21,7 @@ public class Solution {
             }
         }
 
-        DFS(info, 0, 0, 0, new ArrayList<>(););
+        DFS(info, 0, 0, 0, new ArrayList<>());
         return result;
     }
 
